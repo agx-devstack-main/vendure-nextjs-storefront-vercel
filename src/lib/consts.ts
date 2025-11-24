@@ -14,7 +14,7 @@
 //     { slug: 'cz', channel: 'cz-channel', nationalLocale: 'cz', locales: ['cz', 'en'] },
 // ];
 
-export const DEFAULT_CHANNEL = 'default-channel';
+export const DEFAULT_CHANNEL = 'qzexa9axhc0fl2lspred';
 export const DEFAULT_CHANNEL_SLUG = 'en';
 
 export const DEFAULT_LOCALE = 'en';
